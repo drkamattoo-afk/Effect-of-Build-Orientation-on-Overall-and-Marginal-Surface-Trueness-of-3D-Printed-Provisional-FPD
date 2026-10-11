@@ -1,0 +1,9 @@
+Outcome,Reliability,N,ICC_2_1,CI_lower_95,CI_upper_95,F_value,p_value
+Overall RMS,Intra-examiner,14,0.781,0.441,0.924,7.663,0
+Overall RMS,Inter-examiner,14,0.651,0.189,0.874,4.459,0.006
+Combined Marginal RMS,Intra-examiner,14,0.859,0.593,0.953,12.361,0
+Combined Marginal RMS,Inter-examiner,14,0.535,0.004,0.825,3.14,0.024
+Premolar Marginal RMS,Intra-examiner,14,0.986,0.957,0.995,133.559,0
+Premolar Marginal RMS,Inter-examiner,14,0.98,0.936,0.994,111.125,0
+Molar Marginal RMS,Intra-examiner,14,0.939,0.827,0.98,30.023,0
+Molar Marginal RMS,Inter-examiner,14,0.928,0.796,0.976,28.253,0
